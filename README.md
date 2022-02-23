@@ -1,25 +1,15 @@
-### Hi there 👋
-
-I'm currently studying at netology fullstack python developer course. 
+#### About me
+  I'm currently studying at Netology fullstack python developer course, and I'm looking for a internship as python backend-developer. Ready to move or work remotely. 
 
 ##### Languages and tools:
-- Python <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="38" style='position: relative; top: 19px;'>
-- 
+- Python;
+- Git;
+- Django;
+- Basics of html, CSS and Js;
+- requests library and API;
+- SQLite, PostgreSQL;
+
 ##### Contacts:
 - [telegram](https://t.me/vladimir_danilov97)
 - Email: dan1997ford@yandex.ru 
 
-<!--
-**VladimirDanilov97/VladimirDanilov97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
