@@ -3,7 +3,7 @@
 I'm currently studying at netology fullstack python developer course. 
 
 ##### Languages and tools:
-- Python <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="48">
+- Python <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="38" style='position: relative; top: 19px;'>
 - 
 ##### Contacts:
 - [telegram](https://t.me/vladimir_danilov97)
