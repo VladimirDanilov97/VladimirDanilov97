@@ -7,9 +7,11 @@
 - Python;
 - Git;
 - Django;
-- Basics of HTML, CSS and JS;
 - requests, pandas, matplotlib, numpy, scipy;
 - SQLite, PostgreSQL;
+
+#### Currently learning: 
+  Asyncio, aiohttp.
 
 ##### Contacts:
 - [Telegram](https://t.me/vladimir_danilov97)
