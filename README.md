@@ -7,8 +7,8 @@
 - Python;
 - Git;
 - Django;
-- requests, pandas, matplotlib, numpy, scipy;
-- SQLite, PostgreSQL;
+- requests, pandas, matplotlib, numpy;
+- PostgreSQL, sqlalchemy;
 
 #### Currently learning: 
   Asyncio, aiohttp.
