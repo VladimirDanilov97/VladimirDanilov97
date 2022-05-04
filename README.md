@@ -8,7 +8,7 @@
 - Git;
 - [Django](https://github.com/VladimirDanilov97/CS50-project1);
 - Pandas, matplotlib, numpy;
-- [Requests](https://github.com/VladimirDanilov97/Netology-course-project-1) for work with api 
+- [Requests](https://github.com/VladimirDanilov97/Netology-course-project-1) and Postman for work with api 
 - [PostgreSQL](https://github.com/VladimirDanilov97/Netology-db);
 - Requests with [Aiohttp](https://github.com/VladimirDanilov97/Netology-parser/tree/master)
 - [Unittest](https://github.com/VladimirDanilov97/Netology-Unittest)
