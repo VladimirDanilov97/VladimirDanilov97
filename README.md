@@ -14,7 +14,7 @@
 - [Unittest](https://github.com/VladimirDanilov97/Netology-Unittest)
 
 #### Currently learning: 
-  Asyncio.
+  Aiogram, PostgreSQL, sqlalchemy.
 
 ##### Contacts:
 - [Telegram](https://t.me/vladimir_danilov97)
