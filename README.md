@@ -10,7 +10,7 @@
 - Pandas, matplotlib, numpy;
 - [Requests](https://github.com/VladimirDanilov97/Netology-course-project-1) for work with api 
 - [PostgreSQL](https://github.com/VladimirDanilov97/Netology-db);
-- [Aiohttp](https://github.com/VladimirDanilov97/Netology-parser/tree/master)
+- Requests with [Aiohttp](https://github.com/VladimirDanilov97/Netology-parser/tree/master)
 - [Unittest](https://github.com/VladimirDanilov97/Netology-Unittest)
 
 #### Currently learning: 
